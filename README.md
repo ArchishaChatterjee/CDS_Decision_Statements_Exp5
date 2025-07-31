@@ -4,7 +4,7 @@
 - To study and implement decision-making statements in C++ using `if`, `if...else`, `else if`, and `switch`.
 - To perform condition-based logic and branching.
 
-## Apparatus
+## Software
 - Programiz Online Compiler or Visual Studio (VS)
 
 ## Theory
